@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/phycycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Physics" />
+
+    <Button
+        android:id="@+id/chemcycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chemistry" />
+
+    <Button
+        android:id="@+id/thirdsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Third" />
+
+    <Button
+        android:id="@+id/fourthsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fourth" />
+
+    <Button
+        android:id="@+id/fifthsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fifth" />
+
+    <Button
+        android:id="@+id/sixthsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sixth" />
+
+    <Button
+        android:id="@+id/seventhsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seventh" />
+
+    <Button
+        android:id="@+id/eightsem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eighth" />
+
+    <Button
+        android:id="@+id/back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+
+</LinearLayout>

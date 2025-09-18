@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText android:id="@+id/ttttt1" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt3" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt4" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt5" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt6" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/ttttt7" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+        <Button android:id="@+id/home5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Home"/>
+        <Button android:id="@+id/calculate5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Calculate"/>
+        <TextView android:id="@+id/result4" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <Button android:id="@+id/back7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Back"/>
+
+    </LinearLayout>
+</ScrollView>
